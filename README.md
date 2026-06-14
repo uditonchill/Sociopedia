@@ -18,7 +18,7 @@ Sociopedia is a LinkedIn-like social media app where users can sign up, create p
 ## Installation
 
 1. Clone the repository  
-   `git clone https://github.com/kvishv/Sociopedia.git`
+   `git clone https://github.com/uditonchill/Sociopedia.git
 
 2. Install dependencies  
    `cd client && npm install`  
